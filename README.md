@@ -1,8 +1,8 @@
 # The Velvet Vault
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rizkyptrp/best-heist-game-20261122-0559/blob/main/LICENSE)
-[![Made for make.fun](https://img.shields.io/badge/make.fun-best--heist--game-7c5cff)](https://make.fun/c/best-heist-game-20261122-0559)
-[![Node 22](https://img.shields.io/badge/Node-22-green.svg)](https://nodejs.org)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/rizkyptrp/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/rizkyptrp/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 A top-down stealth heist in a museum after midnight. You are Vesper, a thief
 with a velvet touch: cross three galleries under sweeping guard cones and
