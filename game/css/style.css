@@ -1,0 +1,38 @@
+/* style.css — the page around The Velvet Vault's canvas: a dark hall that
+   frames the game and keeps its 16:9 stage centred on any desktop. */
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #0a0812;
+}
+
+.stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+#game {
+  display: block;
+  width: min(100vw, 177.78vh);
+  height: min(100vh, 56.25vw);
+  background: #171226;
+  box-shadow: 0 0 60px rgba(107, 79, 161, 0.35);
+  cursor: crosshair;
+  touch-action: none;
+}
+
+/* Read aloud, never shown: the status line screen readers announce. */
+#status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
